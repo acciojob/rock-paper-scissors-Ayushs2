@@ -1,2 +1,17 @@
+input{
+    border: 2px solid black;
+    font-size: 34px;
+    border-radius: 9px;
+}
+button{
+    font-size: 35px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    color: rgb(43, 28, 8);
+    
+}
 
 /* Your CSS Code here. */
